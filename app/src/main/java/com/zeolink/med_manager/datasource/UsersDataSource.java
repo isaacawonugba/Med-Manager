@@ -1,9 +1,9 @@
-package com.andronicus.med_manager.data;
+package com.zeolink.med_manager.datasource;
 
 import android.net.Uri;
 
 /**
- * Created by andronicus on 4/11/2018.
+ * Created by isaac on 4/16/2018.
  */
 
 public interface UsersDataSource {
