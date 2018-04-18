@@ -1,0 +1,59 @@
+{
+  "project_info": {
+    "project_number": "667377491595",
+    "firebase_url": "https://med-manager-a01b1.firebaseio.com",
+    "project_id": "med-manager-a01b1",
+    "storage_bucket": "med-manager-a01b1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:667377491595:android:08ab9d9fcc597d54",
+        "android_client_info": {
+          "package_name": "com.zeolink.med_manager"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "667377491595-ptrh7aef7ulfson5tl981c1a2e8o1tu3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.zeolink.med_manager",
+            "certificate_hash": "978b45c5231d0ad0fb05b860ab9c58b7efcc2ad3"
+          }
+        },
+        {
+          "client_id": "667377491595-8icdbsfk98pgsbs02h5auu2u496inacp.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "667377491595-vhmoqkbq6045k2l4p22j35ktp5l35jcn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDAFDC0CraxwdeVNPSfseCjOWjp127BW5E"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "667377491595-8icdbsfk98pgsbs02h5auu2u496inacp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

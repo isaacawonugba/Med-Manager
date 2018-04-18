@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Med-Manager</string>
+    <string name="status_signedout">You have signed out.</string>
+    <string name="server_client_id">667377491595-i06pf7keue2215l7dvfoie4uqv6npj6q.apps.googleusercontent.com</string>
+</resources>
